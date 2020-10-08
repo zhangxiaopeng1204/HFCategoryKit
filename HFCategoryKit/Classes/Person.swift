@@ -7,7 +7,7 @@
 
 import UIKit
 
-class Person: NSObject {
+public class Person: NSObject {
     var name = "zhangsan"
     var age = 10
     
