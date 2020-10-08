@@ -2,10 +2,4 @@ use_frameworks!
 
 target 'HFCategoryKit_Example' do
   pod 'HFCategoryKit', :path => '../'
-
-  target 'HFCategoryKit_Tests' do
-    inherit! :search_paths
-
-    
-  end
 end

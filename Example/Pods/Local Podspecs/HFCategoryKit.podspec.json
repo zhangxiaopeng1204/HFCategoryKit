@@ -1,0 +1,22 @@
+{
+  "name": "HFCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of HFCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/张敬朋/HFCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "张敬朋": "510631648@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/张敬朋/HFCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HFCategoryKit/Classes/**/*"
+}
