@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'HFCategoryKit'
   s.version          = '0.1.2'
-  s.summary          = 'A short description of HFCategoryKit.'
+  s.summary          = '我的测试用的组件化项目'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
